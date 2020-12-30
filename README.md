@@ -1,4 +1,4 @@
-A C++ implementation of distributed Iterative Belief Propagation (IBP)
+A C++ implementation of distributed Iterative Belief Propagation (IBP) <br />
 wrote everything from scratch (without using any pre-existing code). probably the first distributed C++ implementation of IBP on the internet.
 
 usage:
